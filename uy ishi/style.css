@@ -1,0 +1,9 @@
+img{
+    height: 50vh;
+}
+section{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
